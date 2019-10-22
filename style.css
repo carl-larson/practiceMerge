@@ -1,7 +1,15 @@
-body{
-    background-color: lightgoldenrodyellow;
-    
+body {
+  background-color: lightgoldenrodyellow;
 }
-div{
-    background-color: goldenrod;
+div {
+  background-color: goldenrod;
+  padding: inherit;
+  display: inherit;
+  position: relative;
+}
+h3 {
+  padding: 2%;
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: inherit;
 }
